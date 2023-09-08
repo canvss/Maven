@@ -399,12 +399,12 @@ Maven聚合是指将多个项目组织到一个父级项目中，通过触发工
     - spring-beans 6.0.6
     - jackson-databind /  jackson-core / jackson-annotations 2.15.0 
 2. 订单服务 (1.0.1)
-    1. shiro-core 1.10.1 
-    2. spring-context 6.0.6 
-    3. spring-core 6.0.6
-    4. spring-beans 6.0.6
+    - shiro-core 1.10.1 
+    - spring-context 6.0.6 
+    - spring-core 6.0.6
+    - spring-beans 6.0.6
 3. 通用模块 (1.0.1)
-    1. commons-io 2.11.0
+    - commons-io 2.11.0
 
 **父工程pom.xml**
 
